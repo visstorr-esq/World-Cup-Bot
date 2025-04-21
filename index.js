@@ -79,7 +79,7 @@ client.once('ready', () => {
   heartbeat();
 });
 
-login(MTM2Mzg5Njc5OTQ3MDk0ODU3Mw.GFelch.iaMQEe9qhtDFVEv_-sCfh_cGhBjsdKtteotkCA);
+login(MTM2Mzg5Njc5OTQ3MDk0ODU3Mw.GUDbTR.XSkhDXY6Y_RREutMgQJXHdyW0XruGEmYcXmRP0);
 
   
 /*
