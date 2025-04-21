@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["🎧 Listening to X Clan", "🎮 Playing Stumble Guys"];
+const statusMessages = ["🎧 Listening to 28323 Tickets", "🎮 Playing DAZN"];
 const statusTypes = [ 'dnd', 'idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
@@ -79,7 +79,7 @@ client.once('ready', () => {
   heartbeat();
 });
 
-login(MTMzMzM2BTEyMzEwODE3OTk2OA.G6R_Lk.ah0rlCD15eq_0CziD3kl1TE91zVY7pwFus-WqY);
+login(MTM2Mzg5Njc5OTQ3MDk0ODU3Mw.GFelch.iaMQEe9qhtDFVEv_-sCfh_cGhBjsdKtteotkCA);
 
   
 /*
